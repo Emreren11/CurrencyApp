@@ -1,4 +1,4 @@
-package com.emre.currencyapp
+package com.emre.currencyapp.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
